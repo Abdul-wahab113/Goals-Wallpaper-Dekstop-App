@@ -1,0 +1,19 @@
+{
+    "weekly": [
+        "Docker Deep Dive",
+        "Auth System (JWT + Refresh)",
+        "Package 1 app and ship it "
+    ],
+    "daily": [
+        "Fix API bug",
+        "Read 10 pages",
+        "Practice SQL"
+    ],
+    "notes": [
+        "Review Docker networking before the weekend sprint",
+        "Send weekly report to the team",
+        "Hi i have created a custom wallpaper app"
+    ],
+    "weekly_progress": 79,
+    "daily_progress": 50
+}
